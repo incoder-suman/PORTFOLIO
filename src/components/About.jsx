@@ -9,8 +9,9 @@ function About() {
         <br />
         <h1 className="text-green-600 font-semibold text-xl">Education & Training</h1>
         <span>
-        [Graduate/B.sc Hons][Magadh university][2016-2019]
+        [Bachelor of Computer Applications(BCA)][Magadh university][2020-2023]
         [Full stack development][Dice Academy][2024]
+        [Graduate/B.sc Hons][Magadh university][2016-2019]
         </span>
         <br />
         <br />
@@ -21,9 +22,16 @@ function About() {
         </span>
         <br />
         <br />
+        <h1 className="text-green-600 font-semibold text-xl">Professional Experience</h1>
+        <span>
+       [ Full stack developer][Kyrion Technology][Internship SEP2024-FEB2025][Developed an E-Cormerce website] <br />
+       [Full stack developer] [Bharat Bizmart][FEB2025-present]
+        </span>
+        <br />
+        <br />
         <h1 className="text-green-600 font-semibold text-xl">Mission Statement</h1>
         <p>
-        My mission is to leverage my skills and creativity to deliver innovative [Your Field] solutions that exceed client expectations and contribute positively to the digital landscape. I am committed to continuous learning and growth, always seeking new challenges and opportunities to expand my horizons.
+        My mission is to leverage my skills and creativity to deliver innovative Web solutions that exceed client expectations and contribute positively to the digital landscape. I am committed to continuous learning and growth, always seeking new challenges and opportunities to expand my horizons.
             </p>        
         </div>
     </div>
